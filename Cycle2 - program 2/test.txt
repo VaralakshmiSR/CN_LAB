@@ -1,0 +1,4 @@
+Welcome to Computer Networks!
+This is TCP/IP socket programming.
+File transferred successfully.
+This is a sample test file for TCP client-server communication.
